@@ -1,0 +1,12 @@
+ 
+ 
+Sample Listening Table Completion 
+ 
+Answers: 
+ 
+1 challenge 
+2 school 
+3 health 
+4 interests 
+5 tutor(s) 
+ 

@@ -1,0 +1,1462 @@
+{
+  "id": "ielts-general-samples-v1",
+  "title": "IELTS General Training · Official samples",
+  "source": "https://ielts.org/take-a-test/preparation-resources/sample-test-questions/general-training-test",
+  "sections": [
+    {
+      "id": "reading",
+      "title": "Reading",
+      "minutes": 60,
+      "questionCount": 34,
+      "tasks": [
+        {
+          "id": "reading-189732383",
+          "title": "Multiple choice (more than one answer)",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189732383&context=exam#/section/185942360/question/185942358/scorableItem/1",
+          "passage": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h1 class=\"style-preset reading-text-title\">The History of Early Cinema</h1><h2 class=\"style-preset reading-text-subtitle\">Note: this is an extract from a General Training Reading text on the subject of the history of early cinema.</h2><p>In the end it was the United States that was to become, and remain, the largest single market for films. By protecting their own market and pursuing a vigorous export policy, the Americans achieved a dominant position on the world market by the start of the First World War. The centre of film-making had moved westwards, to Hollywood, and it was films from these new Hollywood studios that flooded onto the world’s film markets in the years after the First World War, and have done so ever since. Faced with total Hollywood domination, few film industries proved competitive. The Italian industry, which had pioneered the feature film with spectacular films like 'Quo vadis?' (1913) and 'Cabiria' (1914), almost collapsed. In Scandinavia, the Swedish cinema had a brief period of glory, notably with powerful epic films and comedies. Even the French cinema found itself in a difficult position. In Europe, only Germany proved industrially capable, while in the new Soviet Union and in Japan, the development of the cinema took place in conditions of commercial isolation.</p><p>Hollywood took the lead artistically as well as industrially. Hollywood films appealed because they had better-constructed narratives, their special effects were more impressive, and the star system added a new dimension to screen acting. If Hollywood did not have enough of its own resources, it had a great deal of money to buy up artists and technical innovations from Europe to ensure its continued dominance over present or future competition.</p><p>The rest of the world survived partly by learning from Hollywood and partly because audiences continued to exist for a product which corresponded to needs which Hollywood could not supply. As well as popular audiences, there were also increasing audiences for films which were artistically more adventurous or which dealt with wider international issues.</p>\n    ",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<fieldset class=\"choice-question\"><legend><span class=\"question-number\">1–2</span> <span><span>Which <strong>TWO&nbsp;</strong>possible reasons for American dominance of the film industry are given in the text?</span></span></legend><p class=\"hint\">Choose 2 answers.</p><label class=\"option\"><input type=\"checkbox\" name=\"reading-189732383:0\" data-field=\"reading-189732383:0\" data-max=\"2\" value=\"A\"><span>plenty of capital to purchase what it didn't have</span></input></label><label class=\"option\"><input type=\"checkbox\" name=\"reading-189732383:0\" data-field=\"reading-189732383:0\" data-max=\"2\" value=\"B\"><span>making films dealing with serious issues</span></input></label><label class=\"option\"><input type=\"checkbox\" name=\"reading-189732383:0\" data-field=\"reading-189732383:0\" data-max=\"2\" value=\"C\"><span>being first to produce a feature film</span></input></label><label class=\"option\"><input type=\"checkbox\" name=\"reading-189732383:0\" data-field=\"reading-189732383:0\" data-max=\"2\" value=\"D\"><span>well-written narratives</span></input></label><label class=\"option\"><input type=\"checkbox\" name=\"reading-189732383:0\" data-field=\"reading-189732383:0\" data-max=\"2\" value=\"E\"><span>the effect of the First World War</span></input></label></fieldset>\n    ",
+          "fields": [
+            {
+              "id": "reading-189732383:0",
+              "type": "multi",
+              "number": 1,
+              "points": 2,
+              "max": 2,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "plenty of capital to purchase what it didn't have"
+                },
+                {
+                  "value": "B",
+                  "label": "making films dealing with serious issues"
+                },
+                {
+                  "value": "C",
+                  "label": "being first to produce a feature film"
+                },
+                {
+                  "value": "D",
+                  "label": "well-written narratives"
+                },
+                {
+                  "value": "E",
+                  "label": "the effect of the First World War"
+                }
+              ]
+            }
+          ],
+          "instructions": "",
+          "audio": null,
+          "topic": "The History of Early Cinema"
+        },
+        {
+          "id": "reading-189732223",
+          "title": "True/False/Not Given",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189732223&context=exam#/section/145445178/question/145436122/scorableItem/1",
+          "passage": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h1 class=\"style-preset reading-text-title\">Railway Season Tickets</h1><h2 class=\"style-preset reading-text-subtitle\">Types of Season Tickets</h2><p>Standard season tickets allow unlimited travel between the two train stations shown on the ticket for the full duration of their validity. You can break your journey at any train station between the origin and destination station on your season ticket.</p><p>Combined rail-and-bus season tickets are available from some rail stations. This means if you can make your main journey by rail, you can then complete it by bus. Two separate season tickets may be required for some destinations.</p><h2 class=\"style-preset reading-text-subtitle\">Ticket Duration</h2><p><strong>7-day</strong><br></br>These normally cost less than five standard day-returns. They are valid for a full seven days’ rail travel between the points shown on the train ticket.</p><p><strong>Monthly</strong><br></br>Monthly season tickets are priced at less than four times the cost of 7-day train tickets and are valid for a full calendar month from the date of commencement.</p><p><strong>Annual Card</strong><br></br>This gives you a full calendar year's weekday travel for the price of only 40 weekly tickets. Annual Card holders can also save a third on the price of most Standard Class train fares in the region at weekends and on Bank Holidays. You can also take up to three adults with you at the same discount, while up to four children (aged 5–15) may accompany you for a minimum of £1 each.</p><p><strong>How do I buy my first season ticket?</strong><br></br>Your season ticket is not valid without a photocard, and both must always be carried together. A photocard will be issued to you free of charge when you first purchase a season ticket. You just need to take a passport-sized photograph to a ticket office and we'll do the rest. As long as your photo remains a good likeness, you can continue to use the photocard with any subsequent season tickets that you buy.</p>\n    ",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<fieldset class=\"choice-question\"><legend><span class=\"question-number\">3</span> You are allowed to stop off at an intermediate station when making a journey using a standard season ticket.</legend><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:0\" data-field=\"reading-189732223:0\" data-max=\"1\" value=\"A\"><span>TRUE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:0\" data-field=\"reading-189732223:0\" data-max=\"1\" value=\"B\"><span>FALSE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:0\" data-field=\"reading-189732223:0\" data-max=\"1\" value=\"C\"><span>NOT GIVEN</span></input></label></fieldset>\n<fieldset class=\"choice-question\"><legend><span class=\"question-number\">4</span> \nWhen using a combined rail-and-bus season ticket, the major part of your journey must be by train.</legend><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:1\" data-field=\"reading-189732223:1\" data-max=\"1\" value=\"A\"><span>TRUE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:1\" data-field=\"reading-189732223:1\" data-max=\"1\" value=\"B\"><span>FALSE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:1\" data-field=\"reading-189732223:1\" data-max=\"1\" value=\"C\"><span>NOT GIVEN</span></input></label></fieldset>\n<fieldset class=\"choice-question\"><legend><span class=\"question-number\">5</span> \nIt is more expensive to buy four 7-day tickets than a monthly season ticket for the same journey.</legend><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:2\" data-field=\"reading-189732223:2\" data-max=\"1\" value=\"A\"><span>TRUE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:2\" data-field=\"reading-189732223:2\" data-max=\"1\" value=\"B\"><span>FALSE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:2\" data-field=\"reading-189732223:2\" data-max=\"1\" value=\"C\"><span>NOT GIVEN</span></input></label></fieldset>\n<fieldset class=\"choice-question\"><legend><span class=\"question-number\">6</span> \nAnnual Card season tickets entitle you to savings on other rail journeys outside of the working week.</legend><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:3\" data-field=\"reading-189732223:3\" data-max=\"1\" value=\"A\"><span>TRUE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:3\" data-field=\"reading-189732223:3\" data-max=\"1\" value=\"B\"><span>FALSE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:3\" data-field=\"reading-189732223:3\" data-max=\"1\" value=\"C\"><span>NOT GIVEN</span></input></label></fieldset>\n<fieldset class=\"choice-question\"><legend><span class=\"question-number\">7</span> Children under the age of five are charged one third of the full ticket price when accompanying you on an Annual Card journey.</legend><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:4\" data-field=\"reading-189732223:4\" data-max=\"1\" value=\"A\"><span>TRUE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:4\" data-field=\"reading-189732223:4\" data-max=\"1\" value=\"B\"><span>FALSE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:4\" data-field=\"reading-189732223:4\" data-max=\"1\" value=\"C\"><span>NOT GIVEN</span></input></label></fieldset>\n<fieldset class=\"choice-question\"><legend><span class=\"question-number\">8</span> The photo you supply at the time of application is displayed on your season ticket.</legend><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:5\" data-field=\"reading-189732223:5\" data-max=\"1\" value=\"A\"><span>TRUE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:5\" data-field=\"reading-189732223:5\" data-max=\"1\" value=\"B\"><span>FALSE</span></input></label><label class=\"option\"><input type=\"radio\" name=\"reading-189732223:5\" data-field=\"reading-189732223:5\" data-max=\"1\" value=\"C\"><span>NOT GIVEN</span></input></label></fieldset>\n<p>&nbsp;</p>\n    ",
+          "fields": [
+            {
+              "id": "reading-189732223:0",
+              "type": "choice",
+              "number": 3,
+              "points": 1,
+              "max": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "TRUE"
+                },
+                {
+                  "value": "B",
+                  "label": "FALSE"
+                },
+                {
+                  "value": "C",
+                  "label": "NOT GIVEN"
+                }
+              ]
+            },
+            {
+              "id": "reading-189732223:1",
+              "type": "choice",
+              "number": 4,
+              "points": 1,
+              "max": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "TRUE"
+                },
+                {
+                  "value": "B",
+                  "label": "FALSE"
+                },
+                {
+                  "value": "C",
+                  "label": "NOT GIVEN"
+                }
+              ]
+            },
+            {
+              "id": "reading-189732223:2",
+              "type": "choice",
+              "number": 5,
+              "points": 1,
+              "max": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "TRUE"
+                },
+                {
+                  "value": "B",
+                  "label": "FALSE"
+                },
+                {
+                  "value": "C",
+                  "label": "NOT GIVEN"
+                }
+              ]
+            },
+            {
+              "id": "reading-189732223:3",
+              "type": "choice",
+              "number": 6,
+              "points": 1,
+              "max": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "TRUE"
+                },
+                {
+                  "value": "B",
+                  "label": "FALSE"
+                },
+                {
+                  "value": "C",
+                  "label": "NOT GIVEN"
+                }
+              ]
+            },
+            {
+              "id": "reading-189732223:4",
+              "type": "choice",
+              "number": 7,
+              "points": 1,
+              "max": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "TRUE"
+                },
+                {
+                  "value": "B",
+                  "label": "FALSE"
+                },
+                {
+                  "value": "C",
+                  "label": "NOT GIVEN"
+                }
+              ]
+            },
+            {
+              "id": "reading-189732223:5",
+              "type": "choice",
+              "number": 8,
+              "points": 1,
+              "max": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "TRUE"
+                },
+                {
+                  "value": "B",
+                  "label": "FALSE"
+                },
+                {
+                  "value": "C",
+                  "label": "NOT GIVEN"
+                }
+              ]
+            }
+          ],
+          "instructions": "",
+          "audio": null,
+          "topic": "Railway Season Tickets"
+        },
+        {
+          "id": "reading-189733214",
+          "title": "Matching information",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189733214&context=exam#/section/145595569/question/145594138/scorableItem/1",
+          "passage": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h3 class=\"style-preset short-text-header\">For Rent</h3><h3 class=\"style-preset short-text-header\">A</h3><div class=\"style-preset box_black_border\"><p><span class=\"style-preset fjord-block-body\"><strong>Westwood Towers</strong> in desired northwest location. Brand new 2-bedroom units.</span></p><p><span class=\"style-preset fjord-block-body\">• &nbsp; Open concept living<br></br>• &nbsp; City views<br></br>• &nbsp; Climate control in each unit<br></br>• &nbsp; Storage lockers available<br></br>• &nbsp; Underground parking<br></br>• &nbsp; $799 + utilities</span></p><p><span class=\"style-preset fjord-block-body\">Model suite open weekends.<br></br>For information call 1632 41-1539</span></p></div><p>&nbsp;</p><h3 class=\"style-preset short-text-header\">B</h3><div class=\"style-preset box_black_border\"><p><span class=\"style-preset fjord-block-body\"><strong>GREAT VALUE</strong> 1-bedroom units. Enjoy the convenience of living just steps away from stores and services.</span></p><p><span class=\"style-preset fjord-block-body\">• &nbsp; On-site laundry<br></br>• &nbsp; Underground parking<br></br>• &nbsp; Gym on lower level<br></br>• &nbsp; Singles and couples preferred<br></br>• &nbsp; $700 per month plus heat. One year lease and references required.</span></p><p><span class=\"style-preset fjord-block-body\">Rental Office open daily 9 – 9.<br></br>495 Colborne St 1632 523-2222</span></p></div><p>&nbsp;</p><h3 class=\"style-preset short-text-header\">C</h3><div class=\"style-preset box_black_border\"><p><span class=\"style-preset fjord-block-body\"><strong>WELL-KEPT</strong> 1- and 2-bedroom units in older high-rise building.</span></p><p><span class=\"style-preset fjord-block-body\">• &nbsp; Very spacious units<br></br>• &nbsp; No pets<br></br>• &nbsp; Olympic-sized pool behind building<br></br>• &nbsp; Laundry on premises<br></br>• &nbsp; Gas heat<br></br>• &nbsp; On bus route</span></p><p><span class=\"style-preset fjord-block-body\">References needed. Ready for occupancy. Contact Z Group Realty 1632 521-4123 www.zgroup.com</span></p></div><p>&nbsp;</p><h3 class=\"style-preset short-text-header\">D</h3><div class=\"style-preset box_black_border\"><p><span class=\"style-preset fjord-block-body\"><strong>1092 WONDERLAND RD.</strong><br></br>Now accepting applications for 1-, 2-, &amp; 3-bedroom units.</span></p><p><span class=\"style-preset fjord-block-body\">• &nbsp; Prime location in the west<br></br>• &nbsp; Key-card entry<br></br>• &nbsp; Free indoor parking with 2yr lease<br></br>• &nbsp; Laundry facilities on-site<br></br>• &nbsp; En-suite bath</span></p><p><span class=\"style-preset fjord-block-body\">$725 incl. hydro. Heat extra. Call to view. Baseline Holdings 1632 525-7835</span></p></div><p>&nbsp;</p><h3 class=\"style-preset short-text-header\">E</h3><div class=\"style-preset box_black_border\"><p><span class=\"style-preset fjord-block-body\"><strong>GROUND FLOOR</strong> Two-bedroom units for rent.</span></p><p><span class=\"style-preset fjord-block-body\">• &nbsp; Master bedroom with en-suite bath<br></br>• &nbsp; Enclosed patio at the back<br></br>• &nbsp; Alarm system<br></br>• &nbsp; Electric heat<br></br>• &nbsp; Parking at the front of each unit<br></br>• &nbsp; Washer/dryer in suite<br></br>• &nbsp; Bus at the door</span></p><p><span class=\"style-preset fjord-block-body\">Perfect for adult lifestyle. Rent includes membership to a nearby community centre with pool and fitness machines. $800 + heat &amp; hydro. Londor Realty 1632 776-9054 or www.linodours.com</span></p></div><p>&nbsp;</p><h3 class=\"style-preset short-text-header\">F</h3><div class=\"style-preset box_black_border\"><p><span class=\"style-preset fjord-block-body\"><strong>NEW HIGH RISE COMPLEX</strong> inviting applications. 1-, 2- &amp; 3-bedroom units.</span></p><p><span class=\"style-preset fjord-block-body\">• &nbsp; Eat-in kitchen with dishwasher<br></br>• &nbsp; Panoramic views from living room<br></br>• &nbsp; Luxurious main bath with whirlpool tub<br></br>• &nbsp; 2-vehicle underground parking<br></br>• &nbsp; Lower level has laundry and common room</span></p><p><span class=\"style-preset fjord-block-body\">$975 all inclusive<br></br>View by appointment.<br></br>Sentry Apts. 1632 503-9762</span></p></div><p>&nbsp;</p>\n    ",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<div><p>You may choose any letter more than once.</p><div class=\"match-row\"><label><span class=\"question-number\">9</span> The unit has a private outdoor space. <select data-field=\"reading-189733214:0\" aria-label=\"Question 9\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option><option value=\"D\">D</option><option value=\"E\">E</option><option value=\"F\">F</option></select></label></div><div class=\"match-row\"><label><span class=\"question-number\">10</span> The unit is available immediately. <select data-field=\"reading-189733214:1\" aria-label=\"Question 10\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option><option value=\"D\">D</option><option value=\"E\">E</option><option value=\"F\">F</option></select></label></div><div class=\"match-row\"><label><span class=\"question-number\">11</span> There is exercise equipment on-site. <select data-field=\"reading-189733214:2\" aria-label=\"Question 11\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option><option value=\"D\">D</option><option value=\"E\">E</option><option value=\"F\">F</option></select></label></div><div class=\"match-row\"><label><span class=\"question-number\">12</span> The unit is a generous size. <select data-field=\"reading-189733214:3\" aria-label=\"Question 12\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option><option value=\"D\">D</option><option value=\"E\">E</option><option value=\"F\">F</option></select></label></div><div class=\"match-row\"><label><span class=\"question-number\">13</span> Entrance to the building is restricted. <select data-field=\"reading-189733214:4\" aria-label=\"Question 13\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option><option value=\"D\">D</option><option value=\"E\">E</option><option value=\"F\">F</option></select></label></div><div class=\"match-row\"><label><span class=\"question-number\">14</span> The unit is close to shopping. <select data-field=\"reading-189733214:5\" aria-label=\"Question 14\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option><option value=\"D\">D</option><option value=\"E\">E</option><option value=\"F\">F</option></select></label></div></div>\n    ",
+          "fields": [
+            {
+              "id": "reading-189733214:0",
+              "type": "choice",
+              "number": 9,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                },
+                {
+                  "value": "D",
+                  "label": "D"
+                },
+                {
+                  "value": "E",
+                  "label": "E"
+                },
+                {
+                  "value": "F",
+                  "label": "F"
+                }
+              ]
+            },
+            {
+              "id": "reading-189733214:1",
+              "type": "choice",
+              "number": 10,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                },
+                {
+                  "value": "D",
+                  "label": "D"
+                },
+                {
+                  "value": "E",
+                  "label": "E"
+                },
+                {
+                  "value": "F",
+                  "label": "F"
+                }
+              ]
+            },
+            {
+              "id": "reading-189733214:2",
+              "type": "choice",
+              "number": 11,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                },
+                {
+                  "value": "D",
+                  "label": "D"
+                },
+                {
+                  "value": "E",
+                  "label": "E"
+                },
+                {
+                  "value": "F",
+                  "label": "F"
+                }
+              ]
+            },
+            {
+              "id": "reading-189733214:3",
+              "type": "choice",
+              "number": 12,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                },
+                {
+                  "value": "D",
+                  "label": "D"
+                },
+                {
+                  "value": "E",
+                  "label": "E"
+                },
+                {
+                  "value": "F",
+                  "label": "F"
+                }
+              ]
+            },
+            {
+              "id": "reading-189733214:4",
+              "type": "choice",
+              "number": 13,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                },
+                {
+                  "value": "D",
+                  "label": "D"
+                },
+                {
+                  "value": "E",
+                  "label": "E"
+                },
+                {
+                  "value": "F",
+                  "label": "F"
+                }
+              ]
+            },
+            {
+              "id": "reading-189733214:5",
+              "type": "choice",
+              "number": 14,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                },
+                {
+                  "value": "D",
+                  "label": "D"
+                },
+                {
+                  "value": "E",
+                  "label": "E"
+                },
+                {
+                  "value": "F",
+                  "label": "F"
+                }
+              ]
+            }
+          ],
+          "instructions": "",
+          "audio": null,
+          "topic": "For Rent"
+        },
+        {
+          "id": "reading-189733329",
+          "title": "Matching features",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189733329&context=exam#/section/166780192/question/166780191/scorableItem/1",
+          "passage": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h1 class=\"style-preset reading-text-title\">Political units in the history of West Africa</h1><p><em>Note: this is an extract from a General Training Reading text on the subject of political units in the history of West Africa</em></p><p>Some of Africa’s earliest substantial masonry structures outside Egypt were built in West Africa. The fact that they were constructed demonstrates the existence of a sedentary and complex political unit. At Dhar Tichitt and Dhar Oualata, in modern Mauritania, a new chiefdom developed (around 2000–800 BC) in a deteriorating environment where arable land and pasturage for animals were at a premium. A four-tier settlement hierarchy has been discovered (that is, towns and other settlements at four levels of importance, based on size, function, and type of building), with the largest regional centers exceeding 220 acres (90 ha) in area. The evolution of Tichitt-Oualata society remains unclear, obscured by the poor condition of settlement sites. Competing hypotheses include long-term development in the area, rapid evolution, or immigration from elsewhere. Evidence points to the importance of mixed farming – both crops and animals. Inorganic wealth lay in beads, bracelets and small stone axes. Unfortunately, none of the region’s many tumuli* have yet been excavated. It would appear that the collapse of Tichitt-Oualata around 800 BC was brought about both by the increasing drying of the earth in the region and growing harassment from interlopers from outside.</p><p>During the first millennium BC, the advent of metallurgy added further impetus to the growth of complex societies south of the Sahara Desert. Indeed, precious metals were to play a key role in international trade between West Africa and the Mediterranean world, and between East Africa and Asia, throughout the late first and early second millennia AD. At a regional level, iron and copper were crucial materials for making both practical and prestige objects. Coupled with trade in ivory, the control of metallurgical commodities supplanted subsistence farming as the power basis of African elites from the beginning of the first millennium AD.</p><p>The empire of Ghana existed before Arab geographers began to write of West Africa in the eighth century AD. Its origins and extent remain unclear. The ruins of one of its capitals, Kumbi-Saleh, lie in southeastern Mauritania; yet the most substantive settlement clusters known from the first millennium AD rest within the bounds of the Middle Niger river in neighboring Mali. Earlier scholarly thought placed Ghana as a state founded by Arab traders from North Africa, but recent research has emphasized the indigenous development of regional trade webs long before the Arab conquest of North Africa around AD 750.</p><p>Undoubtedly, the Middle Niger’s best-excavated site is that of Jenné-Jeno (250 BC to AD 1400). Here, trade with adjoining regions in commodities such as copper, iron, and sandstone is in evidence by AD 500. Additionally, by AD 800, local craft specialization and a regional hierarchy centered on Jenné-Jeno point to an urban status for the site. However, Jenné-Jeno is only one of many impressive settlements now known from the Middle Niger. The occupation of such sites continued through the time of Ghana's Islamic successor states, the empire of Mali (AD 1250–1600) and the empire of Songhai (AD 1375–1600). Future work is likely to confirm the view that the heart of the empire of Ghana, like that of the Malinke empire of Mali, lay not in its trade centers in the Sahara but closer to the resource centers of the Middle Niger.</p><p>While Jenné-Jeno was flourishing, spectacular developments were also taking place in the West African forest. Although limited excavations have only begun to hint at the political organization of Nigerian societies during the late first millennium AD, their richness and artistic expertise have been well demonstrated at the site of Igbo-Ukwu. Here an elaborate burial and a storehouse of regalia have been excavated, both holding superb brass castings and thousands of glass beads. The presence of such wealth hints at a well-organized system of trade, remarkably accomplished craft specialists, and a wealthy elite, but we know little of settlements in the region until the emergence of the state of Ife around AD 1100.</p><div class=\"style-preset footnotes-wrapper\">*tumuli: small burial mounds made of stone and earth</div>\n    ",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<div><p></p><div class=\"match-row\"><label><span class=\"question-number\">15</span> There is evidence that metal workers were highly skilled. <select data-field=\"reading-189733329:0\" aria-label=\"Question 15\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option></select></label></div><div class=\"match-row\"><label><span class=\"question-number\">16</span> No investigation of certain structures has taken place. <select data-field=\"reading-189733329:1\" aria-label=\"Question 16\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option></select></label></div><div class=\"match-row\"><label><span class=\"question-number\">17</span> Habitation continued after the decline of the political unit. <select data-field=\"reading-189733329:2\" aria-label=\"Question 17\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option></select></label></div><div class=\"match-row\"><label><span class=\"question-number\">18</span> Different residential areas had different characteristics. <select data-field=\"reading-189733329:3\" aria-label=\"Question 18\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option></select></label></div></div><table><tbody><tr><td colspan=\"2\"><h4 class=\"style-preset box-heading\"><span class=\"style-preset no-wrap\">List of political units</span></h4></td></tr><tr><td><strong>A</strong></td><td><p>Tichitt-Oualata</p></td></tr><tr><td><strong>B</strong></td><td><p>Jenné-Jeno</p></td></tr><tr><td><strong>C</strong></td><td><p>Igbo-Ukwu</p></td></tr></tbody></table>\n    ",
+          "fields": [
+            {
+              "id": "reading-189733329:0",
+              "type": "choice",
+              "number": 15,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                }
+              ]
+            },
+            {
+              "id": "reading-189733329:1",
+              "type": "choice",
+              "number": 16,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                }
+              ]
+            },
+            {
+              "id": "reading-189733329:2",
+              "type": "choice",
+              "number": 17,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                }
+              ]
+            },
+            {
+              "id": "reading-189733329:3",
+              "type": "choice",
+              "number": 18,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                }
+              ]
+            }
+          ],
+          "instructions": "",
+          "audio": null,
+          "topic": "Political units in the history of West Africa"
+        },
+        {
+          "id": "reading-189732477",
+          "title": "Summary completion",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189732477&context=exam#/section/184161323/question/184161321/scorableItem/1",
+          "passage": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h1 class=\"style-preset reading-text-title\">Political units in the history of West Africa</h1><h2 class=\"style-preset reading-text-subtitle\">Note: this is an extract from a General Training Reading text on the subject of political units in the history of West Africa</h2><p>Ife, perched at the edge of Nigeria's forest, is thought to have come to prominence through its control of local products – including ivory, gold and pepper – in external trade. By AD 1300, its walled capital was at the peak of its wealth, with many shrines featuring elaborate pavements made of pieces of pottery, and a rich tradition of creating brass and terracotta sculptures, including ones of people richly adorned in ceremonial regalia. Many of these have survived. Subsistence for the large elite and artisan population appears to have been based upon small livestock and the cultivation of vegetables. Around AD 1500, the city of Ife declined, and the region's center of power shifted to Benin without any appreciable break in cultural tradition.</p>\n    ",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h3 class=\"style-preset task-table-heading\">Ife</h3><p>The state of Ife adjoined the&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">19</span><input type=\"text\" data-field=\"reading-189732477:0\" aria-label=\"Question 19\"></input></span>\n in Nigeria, and traded a variety of goods, including metals such as&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">20</span><input type=\"text\" data-field=\"reading-189732477:1\" aria-label=\"Question 20\"></input></span>\n&nbsp;. Floors in religious buildings were made from bits of&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">21</span><input type=\"text\" data-field=\"reading-189732477:2\" aria-label=\"Question 21\"></input></span>\n . There are many surviving examples of&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">22</span><input type=\"text\" data-field=\"reading-189732477:3\" aria-label=\"Question 22\"></input></span>\n made of brass or terracotta. The population lived on animal products, and crops such as&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">23</span><input type=\"text\" data-field=\"reading-189732477:4\" aria-label=\"Question 23\"></input></span>\n .</p>\n    ",
+          "fields": [
+            {
+              "id": "reading-189732477:0",
+              "type": "text",
+              "number": 19,
+              "points": 1
+            },
+            {
+              "id": "reading-189732477:1",
+              "type": "text",
+              "number": 20,
+              "points": 1
+            },
+            {
+              "id": "reading-189732477:2",
+              "type": "text",
+              "number": 21,
+              "points": 1
+            },
+            {
+              "id": "reading-189732477:3",
+              "type": "text",
+              "number": 22,
+              "points": 1
+            },
+            {
+              "id": "reading-189732477:4",
+              "type": "text",
+              "number": 23,
+              "points": 1
+            }
+          ],
+          "instructions": "One word only from the passage.",
+          "audio": null,
+          "topic": "Political units in the history of West Africa"
+        },
+        {
+          "id": "reading-189732842",
+          "title": "Sentence completion",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189732842&context=exam#/section/174562393/question/174562392/scorableItem/1",
+          "passage": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h1 class=\"style-preset reading-text-title\">ACCIDENT INSURANCE FOR CITY MEDIA EMPLOYEES</h1><p>City Media is pleased to offer its employees accident insurance benefits which are unique in the industry. Our insurance package not only insures employees against accidents occurring on the job, but extends to their off-hours. It also provides 24-hour protection to dependants and to eligible partners. A general description of the accident insurance package is shown below. Any questions regarding it may be referred to our Human Resources Department.</p><p>Our basic insurance is the same for all employees, and City Media makes enrolling in this program a condition of employment. We make an exception for those who have the same or greater coverage in an alternate plan. However, employees with other plans are still able to have adult dependants enrolled in ours. At this time, City Media does not extend this insurance to temporary staff, whether they are under contract for their services or not.</p><p>Further, employees can usually purchase accident insurance for their partners. However, submission and review of an application to the insurance company will determine whether the partner is eligible to participate.The terms in these policies bought for spouses are identical to those in the employees’ policy. This is, of course, provided that he/she has no accident insurance under another plan.</p><p>Accident benefits take effect after completing three months of employment. Full-time employees will then automatically receive the minimum $80,000 worth of protection. Part-time employees, defined as those scheduled to work less than forty hours per week, will also be offered accident protection, but the amount of this coverage depends on the hours they typically work. Additional insurance is optional and is sold in amounts of $25,000 and capped at $100,000. Anyone who is interested can submit a request to purchase it and will be responsible for the premium as well as the fees to administer it.</p><p>If employees take an extended time off work on leave, they can either decide not to carry accident insurance or they can decide to keep it and pay 100% of the expense. Basic insurance protection resumes on the first day of the return to work; however, the optional coverages that are discontinued during this time are not automatically restored. These coverages will resume after a medical, a letter from the doctor, and an assurance that the insurance carrier is satisfied.</p>\n    ",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<p class=\"style-preset scorable-item-wrapper\">The accident protection at City Media is&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">24</span><input type=\"text\" data-field=\"reading-189732842:0\" aria-label=\"Question 24\"></input></span>\n amongst similar companies.</p><p class=\"style-preset scorable-item-wrapper\">The insurance programme excludes&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">25</span><input type=\"text\" data-field=\"reading-189732842:1\" aria-label=\"Question 25\"></input></span>\n employees.</p><p class=\"style-preset scorable-item-wrapper\">An employee’s partner is not automatically&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">26</span><input type=\"text\" data-field=\"reading-189732842:2\" aria-label=\"Question 26\"></input></span>\n for the insurance.</p><p class=\"style-preset scorable-item-wrapper\">The insurance coverage for part-timers is related to their usual number of&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">27</span><input type=\"text\" data-field=\"reading-189732842:3\" aria-label=\"Question 27\"></input></span>\n&nbsp;.</p><p class=\"style-preset scorable-item-wrapper\">Employees can send in a&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">28</span><input type=\"text\" data-field=\"reading-189732842:4\" aria-label=\"Question 28\"></input></span>\n for extra insurance.</p>\n    ",
+          "fields": [
+            {
+              "id": "reading-189732842:0",
+              "type": "text",
+              "number": 24,
+              "points": 1
+            },
+            {
+              "id": "reading-189732842:1",
+              "type": "text",
+              "number": 25,
+              "points": 1
+            },
+            {
+              "id": "reading-189732842:2",
+              "type": "text",
+              "number": 26,
+              "points": 1
+            },
+            {
+              "id": "reading-189732842:3",
+              "type": "text",
+              "number": 27,
+              "points": 1
+            },
+            {
+              "id": "reading-189732842:4",
+              "type": "text",
+              "number": 28,
+              "points": 1
+            }
+          ],
+          "instructions": "One word only from the passage.",
+          "audio": null,
+          "topic": "ACCIDENT INSURANCE FOR CITY MEDIA EMPLOYEES"
+        },
+        {
+          "id": "reading-205994164",
+          "title": "Note completion",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=205994164&context=exam#/section/188165448/question/188165446/scorableItem/1",
+          "passage": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h1 class=\"style-preset reading-text-title\">CITY MEDIA INTERNSHIPS</h1><p>We are a proudly Canadian organization offering six annual internships, valued at $10,000 each, to deserving persons from minority groups. We offer career assistance, and an opportunity for these individuals to demonstrate the talent they have and get hands-on experience in broadcasting. We hope that our commitment to these groups becomes an industry-wide model of acceptance. Our goal is to have the City Media family mirror the diversity that makes our nation strong.</p><p>The internship winners will work at one of our two speciality TV stations. The Connect station provides programming on regional events, while the emphasis at Transview is on instructional shows. Each intern will work in an entry-level position within an area that meets the requirements of the company and be paid at the opening rate set by the company for that position. If the assignment makes relocation necessary, a maximum $1,500 grant is provided to assist with these expenses.</p><p>Interested broadcasting applicants should provide evidence of full-time enrolment in the field of broadcasting at an accredited post-secondary institution. An official transcript from the educational institution is also required. Mature students may replace this transcript with a one-page typewritten statement of their goals. References from three teachers or employers will be necessary if the application proceeds.</p><p>Once your application is accepted, you will receive a confirmation letter by mail from Personnel. The application is then referred to a Canada-wide panel of City Media employees. These individuals are familiar with the positions that would be considered a complementary fit with your stated career path. They will put together a shortlist of promising candidates and conduct an in-person or telephone interview. The type of interview will vary with the distance of each candidate. The hiring decisions of the panel are final.</p><p>If a candidate is not eligible, the application will be removed from the competition, as will those whose applications and accompanying documents are received later than the deadline for submission. No exceptions can be made for delayed, lost or misdirected mail.</p>\n    ",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h3 class=\"style-preset task-table-heading\">CITY MEDIA INTERNSHIPS</h3><ul><li>Internships:<br></br>&nbsp;<ul><li>allow minorities to gain&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">29</span><input type=\"text\" data-field=\"reading-205994164:0\" aria-label=\"Question 29\"></input></span>\n &nbsp;and show their talents<br></br>&nbsp;</li><li>further City Media’s aim to reflect the&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">30</span><input type=\"text\" data-field=\"reading-205994164:1\" aria-label=\"Question 30\"></input></span>\n of people in Canada<br></br>&nbsp;</li></ul></li><li>Internship at Transview focuses on educational broadcasting.<br></br>&nbsp;</li><li>An additional amount of money is given if&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">31</span><input type=\"text\" data-field=\"reading-205994164:2\" aria-label=\"Question 31\"></input></span>\n &nbsp;is required.<br></br>&nbsp;</li><li>Support application with:<br></br>&nbsp;<ul><li>proof of present&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">32</span><input type=\"text\" data-field=\"reading-205994164:3\" aria-label=\"Question 32\"></input></span>\n &nbsp;in broadcasting studies<br></br>&nbsp;</li><li>a&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">33</span><input type=\"text\" data-field=\"reading-205994164:4\" aria-label=\"Question 33\"></input></span>\n &nbsp;issued by your school<br></br>&nbsp;</li></ul></li><li>A panel decides which jobs are a good fit for each intern.<br></br>&nbsp;</li><li>Interview method depends on&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">34</span><input type=\"text\" data-field=\"reading-205994164:5\" aria-label=\"Question 34\"></input></span>\n &nbsp;.<br></br>&nbsp;</li><li>Company strict about the deadline stated for applications.</li></ul>\n    ",
+          "fields": [
+            {
+              "id": "reading-205994164:0",
+              "type": "text",
+              "number": 29,
+              "points": 1
+            },
+            {
+              "id": "reading-205994164:1",
+              "type": "text",
+              "number": 30,
+              "points": 1
+            },
+            {
+              "id": "reading-205994164:2",
+              "type": "text",
+              "number": 31,
+              "points": 1
+            },
+            {
+              "id": "reading-205994164:3",
+              "type": "text",
+              "number": 32,
+              "points": 1
+            },
+            {
+              "id": "reading-205994164:4",
+              "type": "text",
+              "number": 33,
+              "points": 1
+            },
+            {
+              "id": "reading-205994164:5",
+              "type": "text",
+              "number": 34,
+              "points": 1
+            }
+          ],
+          "instructions": "One word only from the passage.",
+          "audio": null,
+          "topic": "CITY MEDIA INTERNSHIPS"
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "title": "Writing",
+      "minutes": 60,
+      "questionCount": 2,
+      "tasks": [
+        {
+          "id": "writing-189733708",
+          "title": "Task 1",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189733708&context=exam#/section/166780572/question/145425559/scorableItem/1",
+          "passage": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<div class=\"style-preset writing-box\"><p>You live in a room in college which you share with another student.<br></br>However, there are many problems with this arrangement and you find it<br></br>very difficult to work.</p><p>Write a letter to the accommodation officer at the college. In your letter</p><ul><li>describe the situation</li><li>explain your problems and why it is difficult to work</li><li>say what kind of accommodation you would prefer</li></ul></div><p>You do <strong>NOT&nbsp;</strong>need to write any addresses.</p><p>Begin your letter as follows:</p><p class=\"style-preset handwriting-paragraph\">Dear Sir or Madam</p>\n    ",
+          "html": "\n        \n        <textarea data-field=\"writing-189733708:0\" aria-label=\"Your response for Task 1\" rows=\"18\"></textarea>\n        <p class=\"blockInteraction\"></p>\n    ",
+          "fields": [
+            {
+              "id": "writing-189733708:0",
+              "type": "essay",
+              "number": 1,
+              "points": 1
+            }
+          ],
+          "instructions": "Spend about 20 minutes. Write at least 150 words.",
+          "audio": null,
+          "topic": "Letter to a college accommodation officer"
+        },
+        {
+          "id": "writing-189733579",
+          "title": "Task 2",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189733579&context=exam#/section/145423437/question/145422735/scorableItem/1",
+          "passage": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<p>Write about the following topic:</p><div class=\"style-preset writing-box\"><p>In Britain, when someone gets old they often go to live in a home with&nbsp;other old people where there are nurses to look after them. Sometimes&nbsp;the government has to pay for this care.</p><p>Who do you think should pay for this care, the government or the family?</p></div><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p>\n    ",
+          "html": "\n        \n        <textarea data-field=\"writing-189733579:0\" aria-label=\"Your response for Task 2\" rows=\"18\"></textarea>\n        <p class=\"blockInteraction\"></p>\n    ",
+          "fields": [
+            {
+              "id": "writing-189733579:0",
+              "type": "essay",
+              "number": 2,
+              "points": 1
+            }
+          ],
+          "instructions": "Spend about 40 minutes. Write at least 250 words.",
+          "audio": null,
+          "topic": "Who should pay for care for older people?"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "Listening",
+      "minutes": 30,
+      "questionCount": 33,
+      "tasks": [
+        {
+          "id": "listening-189697549",
+          "title": "Multiple choice (one answer)",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189697549&context=exam#/section/171826252/question/145591537/scorableItem/1",
+          "passage": "",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<fieldset class=\"choice-question\"><legend><span class=\"question-number\">1</span> Why did Judy choose to study the East End of London?</legend><label class=\"option\"><input type=\"radio\" name=\"listening-189697549:0\" data-field=\"listening-189697549:0\" data-max=\"1\" value=\"A\"><span>She wanted to understand her own background.</span></input></label><label class=\"option\"><input type=\"radio\" name=\"listening-189697549:0\" data-field=\"listening-189697549:0\" data-max=\"1\" value=\"B\"><span>She was interested in place names.</span></input></label><label class=\"option\"><input type=\"radio\" name=\"listening-189697549:0\" data-field=\"listening-189697549:0\" data-max=\"1\" value=\"C\"><span>She had read several books about it.</span></input></label></fieldset>\n<fieldset class=\"choice-question\"><legend><span class=\"question-number\">2</span> What was Judy’s main source of materials?</legend><label class=\"option\"><input type=\"radio\" name=\"listening-189697549:1\" data-field=\"listening-189697549:1\" data-max=\"1\" value=\"A\"><span>books</span></input></label><label class=\"option\"><input type=\"radio\" name=\"listening-189697549:1\" data-field=\"listening-189697549:1\" data-max=\"1\" value=\"B\"><span>newspapers</span></input></label><label class=\"option\"><input type=\"radio\" name=\"listening-189697549:1\" data-field=\"listening-189697549:1\" data-max=\"1\" value=\"C\"><span>interviews</span></input></label></fieldset>\n<fieldset class=\"choice-question\"><legend><span class=\"question-number\">3</span> What difficulty did Judy have with her dissertation?</legend><label class=\"option\"><input type=\"radio\" name=\"listening-189697549:2\" data-field=\"listening-189697549:2\" data-max=\"1\" value=\"A\"><span>writing the first draft</span></input></label><label class=\"option\"><input type=\"radio\" name=\"listening-189697549:2\" data-field=\"listening-189697549:2\" data-max=\"1\" value=\"B\"><span>organising what she had collected</span></input></label><label class=\"option\"><input type=\"radio\" name=\"listening-189697549:2\" data-field=\"listening-189697549:2\" data-max=\"1\" value=\"C\"><span>finding enough relevant sources</span></input></label></fieldset>\n<p>&nbsp;</p>\n    ",
+          "fields": [
+            {
+              "id": "listening-189697549:0",
+              "type": "choice",
+              "number": 1,
+              "points": 1,
+              "max": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "She wanted to understand her own background."
+                },
+                {
+                  "value": "B",
+                  "label": "She was interested in place names."
+                },
+                {
+                  "value": "C",
+                  "label": "She had read several books about it."
+                }
+              ]
+            },
+            {
+              "id": "listening-189697549:1",
+              "type": "choice",
+              "number": 2,
+              "points": 1,
+              "max": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "books"
+                },
+                {
+                  "value": "B",
+                  "label": "newspapers"
+                },
+                {
+                  "value": "C",
+                  "label": "interviews"
+                }
+              ]
+            },
+            {
+              "id": "listening-189697549:2",
+              "type": "choice",
+              "number": 3,
+              "points": 1,
+              "max": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "writing the first draft"
+                },
+                {
+                  "value": "B",
+                  "label": "organising what she had collected"
+                },
+                {
+                  "value": "C",
+                  "label": "finding enough relevant sources"
+                }
+              ]
+            }
+          ],
+          "instructions": "",
+          "audio": "/assets/189693860.mp3",
+          "topic": "Judy’s research on the East End of London"
+        },
+        {
+          "id": "listening-189696950",
+          "title": "Multiple choice (more than one answer)",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189696950&context=exam#/section/171824485/question/145454275/scorableItem/1",
+          "passage": "",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<fieldset class=\"choice-question\"><legend><span class=\"question-number\">4–6</span> <span><p><span>Which <strong>THREE</strong> things does the Guide to the Library have information about?</span></p></span></legend><p class=\"hint\">Choose 3 answers.</p><label class=\"option\"><input type=\"checkbox\" name=\"listening-189696950:0\" data-field=\"listening-189696950:0\" data-max=\"3\" value=\"A\"><span>book reservations</span></input></label><label class=\"option\"><input type=\"checkbox\" name=\"listening-189696950:0\" data-field=\"listening-189696950:0\" data-max=\"3\" value=\"B\"><span>reading room rules</span></input></label><label class=\"option\"><input type=\"checkbox\" name=\"listening-189696950:0\" data-field=\"listening-189696950:0\" data-max=\"3\" value=\"C\"><span>catalogue</span></input></label><label class=\"option\"><input type=\"checkbox\" name=\"listening-189696950:0\" data-field=\"listening-189696950:0\" data-max=\"3\" value=\"D\"><span>disabled facilities</span></input></label><label class=\"option\"><input type=\"checkbox\" name=\"listening-189696950:0\" data-field=\"listening-189696950:0\" data-max=\"3\" value=\"E\"><span>location of rooms</span></input></label><label class=\"option\"><input type=\"checkbox\" name=\"listening-189696950:0\" data-field=\"listening-189696950:0\" data-max=\"3\" value=\"simpleChoice_IA1681748489854840adf29-b032-4aa3-b8ff-64ec4f5714a6\"><span>café</span></input></label><label class=\"option\"><input type=\"checkbox\" name=\"listening-189696950:0\" data-field=\"listening-189696950:0\" data-max=\"3\" value=\"simpleChoice_IA1681748491599ae99759f-5758-481b-8c56-07813a724072\"><span>regular events</span></input></label><label class=\"option\"><input type=\"checkbox\" name=\"listening-189696950:0\" data-field=\"listening-189696950:0\" data-max=\"3\" value=\"simpleChoice_IA1681748499687dfe75064-7109-4a50-90b4-5c10c0e1064c\"><span>staff</span></input></label></fieldset>\n<p>&nbsp;</p>\n    ",
+          "fields": [
+            {
+              "id": "listening-189696950:0",
+              "type": "multi",
+              "number": 4,
+              "points": 3,
+              "max": 3,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "book reservations"
+                },
+                {
+                  "value": "B",
+                  "label": "reading room rules"
+                },
+                {
+                  "value": "C",
+                  "label": "catalogue"
+                },
+                {
+                  "value": "D",
+                  "label": "disabled facilities"
+                },
+                {
+                  "value": "E",
+                  "label": "location of rooms"
+                },
+                {
+                  "value": "simpleChoice_IA1681748489854840adf29-b032-4aa3-b8ff-64ec4f5714a6",
+                  "label": "café"
+                },
+                {
+                  "value": "simpleChoice_IA1681748491599ae99759f-5758-481b-8c56-07813a724072",
+                  "label": "regular events"
+                },
+                {
+                  "value": "simpleChoice_IA1681748499687dfe75064-7109-4a50-90b4-5c10c0e1064c",
+                  "label": "staff"
+                }
+              ]
+            }
+          ],
+          "instructions": "",
+          "audio": "/assets/189693463.mp3",
+          "topic": "Guide to the Library"
+        },
+        {
+          "id": "listening-189695339",
+          "title": "Plan/Map/Diagram labelling",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189695339&context=exam#/section/174541820/question/174541819/scorableItem/1",
+          "passage": "",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<div class=\"style-preset split-5050 genericTwoColumn\"><div class=\"style-preset left\"><p><img alt=\"Street plan with labelled locations A–H\" class=\"insertedImage\" src=\"/assets/174531504.svg\"></img></p></div><div><p></p><div class=\"match-row\"><label><span class=\"question-number\">7</span> Quilt Shop <select data-field=\"listening-189695339:0\" aria-label=\"Question 7\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option><option value=\"D\">D</option><option value=\"E\">E</option><option value=\"F\">F</option><option value=\"G\">G</option><option value=\"H\">H</option></select></label></div><div class=\"match-row\"><label><span class=\"question-number\">8</span> Handicrafts Museum <select data-field=\"listening-189695339:1\" aria-label=\"Question 8\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option><option value=\"D\">D</option><option value=\"E\">E</option><option value=\"F\">F</option><option value=\"G\">G</option><option value=\"H\">H</option></select></label></div><div class=\"match-row\"><label><span class=\"question-number\">9</span> School House <select data-field=\"listening-189695339:2\" aria-label=\"Question 9\"><option value=\"\">Choose…</option><option value=\"A\">A</option><option value=\"B\">B</option><option value=\"C\">C</option><option value=\"D\">D</option><option value=\"E\">E</option><option value=\"F\">F</option><option value=\"G\">G</option><option value=\"H\">H</option></select></label></div></div></div>\n    ",
+          "fields": [
+            {
+              "id": "listening-189695339:0",
+              "type": "choice",
+              "number": 7,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                },
+                {
+                  "value": "D",
+                  "label": "D"
+                },
+                {
+                  "value": "E",
+                  "label": "E"
+                },
+                {
+                  "value": "F",
+                  "label": "F"
+                },
+                {
+                  "value": "G",
+                  "label": "G"
+                },
+                {
+                  "value": "H",
+                  "label": "H"
+                }
+              ]
+            },
+            {
+              "id": "listening-189695339:1",
+              "type": "choice",
+              "number": 8,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                },
+                {
+                  "value": "D",
+                  "label": "D"
+                },
+                {
+                  "value": "E",
+                  "label": "E"
+                },
+                {
+                  "value": "F",
+                  "label": "F"
+                },
+                {
+                  "value": "G",
+                  "label": "G"
+                },
+                {
+                  "value": "H",
+                  "label": "H"
+                }
+              ]
+            },
+            {
+              "id": "listening-189695339:2",
+              "type": "choice",
+              "number": 9,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "A"
+                },
+                {
+                  "value": "B",
+                  "label": "B"
+                },
+                {
+                  "value": "C",
+                  "label": "C"
+                },
+                {
+                  "value": "D",
+                  "label": "D"
+                },
+                {
+                  "value": "E",
+                  "label": "E"
+                },
+                {
+                  "value": "F",
+                  "label": "F"
+                },
+                {
+                  "value": "G",
+                  "label": "G"
+                },
+                {
+                  "value": "H",
+                  "label": "H"
+                }
+              ]
+            }
+          ],
+          "instructions": "",
+          "audio": "/assets/189692991.mp3",
+          "topic": "A town street plan"
+        },
+        {
+          "id": "listening-189696078",
+          "title": "Note completion",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189696078&context=exam#/section/184163671/question/184163670/scorableItem/1",
+          "passage": "",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h3 class=\"style-preset task-table-heading\">Phone call about second-hand furniture</h3><h3 class=\"style-preset task-table-heading\">Items</h3><h4 class=\"style-preset note-form-sub-heading\">Dining table</h4><ul><li><span class=\"inline-answer\"><span class=\"question-number\">10</span><input type=\"text\" data-field=\"listening-189696078:0\" aria-label=\"Question 10\"></input></span>\n &nbsp;shape</li><li>medium size</li><li><span class=\"inline-answer\"><span class=\"question-number\">11</span><input type=\"text\" data-field=\"listening-189696078:1\" aria-label=\"Question 11\"></input></span>\n &nbsp;old</li><li>£25.00</li></ul><h4 class=\"style-preset paragraph-notice-heading\">Dining chairs</h4><ul><li>set of&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">12</span><input type=\"text\" data-field=\"listening-189696078:2\" aria-label=\"Question 12\"></input></span>\n &nbsp;chairs</li><li>seats covered in&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">13</span><input type=\"text\" data-field=\"listening-189696078:3\" aria-label=\"Question 13\"></input></span>\n &nbsp;material</li><li>in&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">14</span><input type=\"text\" data-field=\"listening-189696078:4\" aria-label=\"Question 14\"></input></span>\n &nbsp;condition</li><li>£20.00</li></ul><h4 class=\"style-preset paragraph-notice-heading\">Desk</h4><ul><li>length:&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">15</span><input type=\"text\" data-field=\"listening-189696078:5\" aria-label=\"Question 15\"></input></span>\n</li><li>3 drawers. Top drawer has a&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">16</span><input type=\"text\" data-field=\"listening-189696078:6\" aria-label=\"Question 16\"></input></span>\n</li><li>£50.00</li></ul>\n    ",
+          "fields": [
+            {
+              "id": "listening-189696078:0",
+              "type": "text",
+              "number": 10,
+              "points": 1
+            },
+            {
+              "id": "listening-189696078:1",
+              "type": "text",
+              "number": 11,
+              "points": 1
+            },
+            {
+              "id": "listening-189696078:2",
+              "type": "text",
+              "number": 12,
+              "points": 1
+            },
+            {
+              "id": "listening-189696078:3",
+              "type": "text",
+              "number": 13,
+              "points": 1
+            },
+            {
+              "id": "listening-189696078:4",
+              "type": "text",
+              "number": 14,
+              "points": 1
+            },
+            {
+              "id": "listening-189696078:5",
+              "type": "text",
+              "number": 15,
+              "points": 1
+            },
+            {
+              "id": "listening-189696078:6",
+              "type": "text",
+              "number": 16,
+              "points": 1
+            }
+          ],
+          "instructions": "One word and/or a number.",
+          "audio": "/assets/189693163.mp3",
+          "topic": "Phone call about second-hand furniture"
+        },
+        {
+          "id": "listening-189652254",
+          "title": "Table completion",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189652254&context=exam#/section/181038775/question/181038772/scorableItem/1",
+          "passage": "",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h3 class=\"style-preset task-table-heading\">Research Findings</h3><table><tbody><tr><td><h4 class=\"style-preset table-sub-heading\">&nbsp;</h4></td><td><h4 class=\"style-preset table-sub-heading\">Social and Environmental Factors</h4></td><td><h4 class=\"style-preset table-sub-heading\">Other Factors</h4></td><td><h4 class=\"style-preset table-sub-heading\">Personal Characteristics</h4></td></tr><tr><td><h4 class=\"style-preset table-sub-heading\">First level of importance</h4></td><td><br></br>Effective support</td><td><br></br>Perceived success in study</td><td><br></br>Enjoyment of a&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">17</span><input type=\"text\" data-field=\"listening-189652254:0\" aria-label=\"Question 17\"></input></span>\n</td></tr><tr><td><h4 class=\"style-preset table-sub-heading\">Second level of importance</h4></td><td><br></br>Positive experiences at&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">18</span><input type=\"text\" data-field=\"listening-189652254:1\" aria-label=\"Question 18\"></input></span>\n</td><td><br></br>Good&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">19</span><input type=\"text\" data-field=\"listening-189652254:2\" aria-label=\"Question 19\"></input></span>\n</td><td><br></br>Many&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">20</span><input type=\"text\" data-field=\"listening-189652254:3\" aria-label=\"Question 20\"></input></span>\n &nbsp;in daily life</td></tr><tr><td><h4 class=\"style-preset table-sub-heading\">Third level of importance</h4></td><td><br></br>Good interaction with the&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">21</span><input type=\"text\" data-field=\"listening-189652254:4\" aria-label=\"Question 21\"></input></span>\n</td><td><br></br>No family problems</td><td><br></br>Capacity for multi-tasking</td></tr></tbody></table>\n    ",
+          "fields": [
+            {
+              "id": "listening-189652254:0",
+              "type": "text",
+              "number": 17,
+              "points": 1
+            },
+            {
+              "id": "listening-189652254:1",
+              "type": "text",
+              "number": 18,
+              "points": 1
+            },
+            {
+              "id": "listening-189652254:2",
+              "type": "text",
+              "number": 19,
+              "points": 1
+            },
+            {
+              "id": "listening-189652254:3",
+              "type": "text",
+              "number": 20,
+              "points": 1
+            },
+            {
+              "id": "listening-189652254:4",
+              "type": "text",
+              "number": 21,
+              "points": 1
+            }
+          ],
+          "instructions": "One word only.",
+          "audio": "/assets/189688623.mp3",
+          "topic": "Research findings on learner persistence"
+        },
+        {
+          "id": "listening-189697842",
+          "title": "Flow-chart completion",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189697842&context=exam#/section/181951855/question/181951854/scorableItem/1",
+          "passage": "",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<h3 class=\"style-preset task-table-heading\">Procedure for detecting life on another planet&nbsp;</h3>\n    \n    \n    \n        \n            \n        \n    \n        \n            \n        \n    \n        \n            \n        \n    \n        \n            \n        \n    \n        \n            \n        \n    \n        \n            \n        \n    \n        \n            \n        \n    \n        \n            \n        \n    \n        \n            \n        \n    \n    \n        <blockquote>\n            <div class=\"table-widget-container\"><table class=\"style-preset theme-border-4\"><tbody><tr><td><div class=\"style-preset box_black_border\">A spacecraft lands on a planet and sends out a rover.</div><div class=\"style-preset flow-chart-small-arrow\">⬇</div><div class=\"style-preset box_black_border\">The rover is directed to a&nbsp;<span class=\"question-number\">22</span> <select data-field=\"listening-189697842:0\" aria-label=\"Question 22\"><option value=\"\">Choose…</option><option value=\"A\">fossils</option><option value=\"B\">contamination</option><option value=\"C\">vehicle</option><option value=\"D\">powder</option><option value=\"E\">heat</option><option value=\"F\">results</option><option value=\"G\">radiation</option><option value=\"H\">site</option><option value=\"I\">microbes</option></select>&nbsp;which has organic material.</div><div class=\"style-preset flow-chart-small-arrow\">⬇</div><div class=\"style-preset box_black_border\">It collects a sample from below the surface (in order to avoid the effects of&nbsp;<span class=\"question-number\">23</span> <select data-field=\"listening-189697842:1\" aria-label=\"Question 23\"><option value=\"\">Choose…</option><option value=\"A\">fossils</option><option value=\"B\">contamination</option><option value=\"C\">vehicle</option><option value=\"D\">powder</option><option value=\"E\">heat</option><option value=\"F\">results</option><option value=\"G\">radiation</option><option value=\"H\">site</option><option value=\"I\">microbes</option></select>&nbsp;).</div><div class=\"style-preset flow-chart-small-arrow\">⬇</div><div class=\"style-preset box_black_border\">The soil and rocks are checked to look for evidence of fossils.</div><div class=\"style-preset flow-chart-small-arrow\">⬇</div><div class=\"style-preset box_black_border\">The sample is converted to powder.</div><div class=\"style-preset flow-chart-small-arrow\">⬇</div><div class=\"style-preset box_black_border\">The sample is subjected to&nbsp;<span class=\"question-number\">24</span> <select data-field=\"listening-189697842:2\" aria-label=\"Question 24\"><option value=\"\">Choose…</option><option value=\"A\">fossils</option><option value=\"B\">contamination</option><option value=\"C\">vehicle</option><option value=\"D\">powder</option><option value=\"E\">heat</option><option value=\"F\">results</option><option value=\"G\">radiation</option><option value=\"H\">site</option><option value=\"I\">microbes</option></select>.</div><div class=\"style-preset flow-chart-small-arrow\">⬇</div><div class=\"style-preset box_black_border\">A mass spectrometer is used to search for potential proof of life, e.g.&nbsp;&nbsp;<span class=\"question-number\">25</span> <select data-field=\"listening-189697842:3\" aria-label=\"Question 25\"><option value=\"\">Choose…</option><option value=\"A\">fossils</option><option value=\"B\">contamination</option><option value=\"C\">vehicle</option><option value=\"D\">powder</option><option value=\"E\">heat</option><option value=\"F\">results</option><option value=\"G\">radiation</option><option value=\"H\">site</option><option value=\"I\">microbes</option></select>.</div><div class=\"style-preset flow-chart-small-arrow\">⬇</div><div class=\"style-preset box_black_border\">The&nbsp;<span class=\"question-number\">26</span> <select data-field=\"listening-189697842:4\" aria-label=\"Question 26\"><option value=\"\">Choose…</option><option value=\"A\">fossils</option><option value=\"B\">contamination</option><option value=\"C\">vehicle</option><option value=\"D\">powder</option><option value=\"E\">heat</option><option value=\"F\">results</option><option value=\"G\">radiation</option><option value=\"H\">site</option><option value=\"I\">microbes</option></select>&nbsp;are compared with existing data from Earth.</div></td></tr></tbody></table></div>\n        </blockquote>\n    \n\n    ",
+          "fields": [
+            {
+              "id": "listening-189697842:0",
+              "type": "choice",
+              "number": 22,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "fossils"
+                },
+                {
+                  "value": "B",
+                  "label": "contamination"
+                },
+                {
+                  "value": "C",
+                  "label": "vehicle"
+                },
+                {
+                  "value": "D",
+                  "label": "powder"
+                },
+                {
+                  "value": "E",
+                  "label": "heat"
+                },
+                {
+                  "value": "F",
+                  "label": "results"
+                },
+                {
+                  "value": "G",
+                  "label": "radiation"
+                },
+                {
+                  "value": "H",
+                  "label": "site"
+                },
+                {
+                  "value": "I",
+                  "label": "microbes"
+                }
+              ]
+            },
+            {
+              "id": "listening-189697842:1",
+              "type": "choice",
+              "number": 23,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "fossils"
+                },
+                {
+                  "value": "B",
+                  "label": "contamination"
+                },
+                {
+                  "value": "C",
+                  "label": "vehicle"
+                },
+                {
+                  "value": "D",
+                  "label": "powder"
+                },
+                {
+                  "value": "E",
+                  "label": "heat"
+                },
+                {
+                  "value": "F",
+                  "label": "results"
+                },
+                {
+                  "value": "G",
+                  "label": "radiation"
+                },
+                {
+                  "value": "H",
+                  "label": "site"
+                },
+                {
+                  "value": "I",
+                  "label": "microbes"
+                }
+              ]
+            },
+            {
+              "id": "listening-189697842:2",
+              "type": "choice",
+              "number": 24,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "fossils"
+                },
+                {
+                  "value": "B",
+                  "label": "contamination"
+                },
+                {
+                  "value": "C",
+                  "label": "vehicle"
+                },
+                {
+                  "value": "D",
+                  "label": "powder"
+                },
+                {
+                  "value": "E",
+                  "label": "heat"
+                },
+                {
+                  "value": "F",
+                  "label": "results"
+                },
+                {
+                  "value": "G",
+                  "label": "radiation"
+                },
+                {
+                  "value": "H",
+                  "label": "site"
+                },
+                {
+                  "value": "I",
+                  "label": "microbes"
+                }
+              ]
+            },
+            {
+              "id": "listening-189697842:3",
+              "type": "choice",
+              "number": 25,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "fossils"
+                },
+                {
+                  "value": "B",
+                  "label": "contamination"
+                },
+                {
+                  "value": "C",
+                  "label": "vehicle"
+                },
+                {
+                  "value": "D",
+                  "label": "powder"
+                },
+                {
+                  "value": "E",
+                  "label": "heat"
+                },
+                {
+                  "value": "F",
+                  "label": "results"
+                },
+                {
+                  "value": "G",
+                  "label": "radiation"
+                },
+                {
+                  "value": "H",
+                  "label": "site"
+                },
+                {
+                  "value": "I",
+                  "label": "microbes"
+                }
+              ]
+            },
+            {
+              "id": "listening-189697842:4",
+              "type": "choice",
+              "number": 26,
+              "points": 1,
+              "options": [
+                {
+                  "value": "A",
+                  "label": "fossils"
+                },
+                {
+                  "value": "B",
+                  "label": "contamination"
+                },
+                {
+                  "value": "C",
+                  "label": "vehicle"
+                },
+                {
+                  "value": "D",
+                  "label": "powder"
+                },
+                {
+                  "value": "E",
+                  "label": "heat"
+                },
+                {
+                  "value": "F",
+                  "label": "results"
+                },
+                {
+                  "value": "G",
+                  "label": "radiation"
+                },
+                {
+                  "value": "H",
+                  "label": "site"
+                },
+                {
+                  "value": "I",
+                  "label": "microbes"
+                }
+              ]
+            }
+          ],
+          "instructions": "",
+          "audio": "/assets/189694183.mp3",
+          "topic": "Procedure for detecting life on another planet"
+        },
+        {
+          "id": "listening-189694885",
+          "title": "Sentence completion",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189694885&context=exam#/section/184163445/question/171795621/scorableItem/1",
+          "passage": "",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<p class=\"style-preset scorable-item-wrapper\">Studying with the Open University demanded a great deal of&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">27</span><input type=\"text\" data-field=\"listening-189694885:0\" aria-label=\"Question 27\"></input></span>\n&nbsp;.</p><p class=\"style-preset scorable-item-wrapper\">Studying and working at the same time improved Rachel’s&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">28</span><input type=\"text\" data-field=\"listening-189694885:1\" aria-label=\"Question 28\"></input></span>\n skills.</p><p class=\"style-preset scorable-item-wrapper\">It is helpful that the course was structured in&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">29</span><input type=\"text\" data-field=\"listening-189694885:2\" aria-label=\"Question 29\"></input></span>\n&nbsp;.</p><p class=\"style-preset scorable-item-wrapper\">She enjoyed meeting other students at&nbsp;<span class=\"inline-answer\"><span class=\"question-number\">30</span><input type=\"text\" data-field=\"listening-189694885:3\" aria-label=\"Question 30\"></input></span>\n&nbsp;.</p>\n    ",
+          "fields": [
+            {
+              "id": "listening-189694885:0",
+              "type": "text",
+              "number": 27,
+              "points": 1
+            },
+            {
+              "id": "listening-189694885:1",
+              "type": "text",
+              "number": 28,
+              "points": 1
+            },
+            {
+              "id": "listening-189694885:2",
+              "type": "text",
+              "number": 29,
+              "points": 1
+            },
+            {
+              "id": "listening-189694885:3",
+              "type": "text",
+              "number": 30,
+              "points": 1
+            }
+          ],
+          "instructions": "No more than two words.",
+          "audio": "/assets/189691940.mp3",
+          "topic": "Studying with the Open University"
+        },
+        {
+          "id": "listening-189694459",
+          "title": "Short-answer questions",
+          "source": "https://ielts.inspera.com/player/?assessmentRunId=189694459&context=exam#/section/174309255/question/174309254/scorableItem/1",
+          "passage": "",
+          "html": "\n        <div class=\"question-main-illustration\">\n    \n    \n</div>\n<p class=\"style-preset scorable-item-wrapper\">List <strong>THREE</strong> types of staff that Pacific Clothing want to recruit at present.</p><ul><li class=\"style-preset scorable-item-wrapper\"><span class=\"inline-answer\"><span class=\"question-number\">31</span><input type=\"text\" data-field=\"listening-189694459:0\" aria-label=\"Question 31\"></input></span>\n</li><li class=\"style-preset scorable-item-wrapper\"><span class=\"inline-answer\"><span class=\"question-number\">32</span><input type=\"text\" data-field=\"listening-189694459:1\" aria-label=\"Question 32\"></input></span>\n</li><li class=\"style-preset scorable-item-wrapper\"><span class=\"inline-answer\"><span class=\"question-number\">33</span><input type=\"text\" data-field=\"listening-189694459:2\" aria-label=\"Question 33\"></input></span>\n</li></ul>\n    ",
+          "fields": [
+            {
+              "id": "listening-189694459:0",
+              "type": "text",
+              "number": 31,
+              "points": 1
+            },
+            {
+              "id": "listening-189694459:1",
+              "type": "text",
+              "number": 32,
+              "points": 1
+            },
+            {
+              "id": "listening-189694459:2",
+              "type": "text",
+              "number": 33,
+              "points": 1
+            }
+          ],
+          "instructions": "One word only.",
+          "audio": "/assets/189689720.mp3",
+          "topic": "Staff recruitment at Pacific Clothing"
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "title": "Speaking",
+      "minutes": 20,
+      "questionCount": 14,
+      "tasks": [
+        {
+          "id": "speaking-0",
+          "title": "Part 1 · Home town",
+          "passage": "<div class=\"speaking-prompt\">What kind of place is your home town or village?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-1",
+          "title": "Part 1 · Home town",
+          "passage": "<div class=\"speaking-prompt\">What’s the most interesting part of your town/village?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-2",
+          "title": "Part 1 · Home town",
+          "passage": "<div class=\"speaking-prompt\">What kind of jobs do the people in your town/village do?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-3",
+          "title": "Part 1 · Home town",
+          "passage": "<div class=\"speaking-prompt\">Would you say it’s a good place to live? Why?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-4",
+          "title": "Part 1 · Accommodation",
+          "passage": "<div class=\"speaking-prompt\">Tell me about the kind of accommodation you live in.</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-5",
+          "title": "Part 1 · Accommodation",
+          "passage": "<div class=\"speaking-prompt\">How long have you lived there?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-6",
+          "title": "Part 1 · Accommodation",
+          "passage": "<div class=\"speaking-prompt\">What do you like about living there?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-7",
+          "title": "Part 1 · Accommodation",
+          "passage": "<div class=\"speaking-prompt\">What sort of accommodation would you most like to live in?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-8",
+          "title": "Part 2 · An important possession",
+          "passage": "<div class=\"speaking-prompt\">Describe something you own which is very important to you.<br><br>You should say:<br>• where you got it from<br>• how long you have had it<br>• what you use it for<br><br>and explain why it is important to you.</div>",
+          "html": "",
+          "instructions": "Take one minute to prepare, then speak for one to two minutes.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-9",
+          "title": "Part 2 · Value of your possession",
+          "passage": "<div class=\"speaking-prompt\">Is it valuable in terms of money?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-10",
+          "title": "Part 2 · Replacing your possession",
+          "passage": "<div class=\"speaking-prompt\">Would it be easy to replace?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-11",
+          "title": "Part 3 · People’s values",
+          "passage": "<div class=\"speaking-prompt\">What kind of things give status to people in your country?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-12",
+          "title": "Part 3 · People’s values",
+          "passage": "<div class=\"speaking-prompt\">Have things changed since your parents’ time?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        },
+        {
+          "id": "speaking-13",
+          "title": "Part 3 · Advertising",
+          "passage": "<div class=\"speaking-prompt\">Do you think advertising influences what people buy?</div>",
+          "html": "",
+          "instructions": "Answer aloud. Record your response, then continue.",
+          "fields": [],
+          "source": "https://ielts.org/cdn/ielts-downloadable-assets/ielts-sample-tests/ielts-speaking-sample-tasks-2023.pdf"
+        }
+      ]
+    }
+  ]
+}
