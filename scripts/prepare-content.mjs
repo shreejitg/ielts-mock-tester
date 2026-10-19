@@ -211,6 +211,36 @@ for (const section of ["reading", "writing", "listening"]) {
       task.instructions = task.title.includes("1")
         ? "Spend about 20 minutes. Write at least 150 words."
         : "Spend about 40 minutes. Write at least 250 words.";
+    const review = load(task.html);
+    for (const f of task.fields) {
+      const control = review("[data-field]")
+        .filter((_, el) => review(el).attr("data-field") === f.id)
+        .first();
+      let context = control
+        .closest("fieldset.choice-question")
+        .find("legend")
+        .first();
+      if (!context.length) context = control.closest(".match-row");
+      if (!context.length)
+        context = control.closest(".box_black_border,p,li,td,tr");
+      const text = context.clone();
+      const matching = control.closest(".match-row").length > 0;
+      text.find("input,select,textarea").each((_, el) => {
+        const other = task.fields.find(
+          (field) => field.id === review(el).attr("data-field"),
+        );
+        review(el).replaceWith(
+          matching
+            ? ""
+            : ` [${other?.number ?? f.number}${other?.id === f.id ? ": …" : ""}] `,
+        );
+      });
+      text.find(".question-number").remove();
+      f.question =
+        text.text().replace(/\s+/g, " ").trim() || task.topic || task.title;
+      if (/^\[\d+: …\]$/.test(f.question))
+        f.question = `${review("p").first().text().trim()} ${f.question}`;
+    }
     tasks.push(task);
   }
   result.sections.push({

@@ -1477,3 +1477,69 @@ fieldset:disabled {
   margin: 0 0 10px;
   line-height: 1.5;
 }
+
+.review-task {
+  padding: 22px;
+  border-top: 1px solid var(--line);
+}
+.review-task > h3 {
+  font-size: 16px;
+  margin: 0 0 8px;
+  font-weight: 550;
+}
+.review-task > p {
+  font-size: 12px;
+}
+.review-context {
+  background: #f5f6ee;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  margin: 16px 0;
+}
+.review-context > summary {
+  padding: 12px;
+  font-size: 12px;
+}
+.review-context > .passage,
+.review-context > .question-controls,
+.review-audio {
+  margin: 16px;
+  padding: 0;
+}
+.review-context fieldset:disabled {
+  opacity: 1;
+}
+.review-context input:disabled,
+.review-context select:disabled {
+  color: var(--ink);
+  -webkit-text-fill-color: var(--ink);
+  opacity: 1;
+}
+.review-audio audio {
+  width: 100%;
+  max-width: 450px;
+}
+.review-task .review-row {
+  margin: 0;
+  padding: 20px 0;
+}
+.review-options {
+  padding-left: 18px;
+  font-size: 12px;
+  color: #75836b;
+  line-height: 1.8;
+  margin: 12px 0;
+}
+.review-task > .passage {
+  padding: 15px;
+  background: #f5f6ee;
+  border-radius: 6px;
+}
+.review-context .passage h1 {
+  font-size: 20px;
+}
+.review-task .review-row strong {
+  font-size: 14px;
+  line-height: 1.7;
+  display: block;
+}

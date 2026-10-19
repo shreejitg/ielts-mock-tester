@@ -18,6 +18,35 @@ const objective = dataset.sections.filter((s) =>
   ["reading", "listening"].includes(s.id),
 );
 
+test("reviews resolve exact question wording for matching, choice, numbered blanks, and shared short-answer prompts", () => {
+  const tasks = dataset.sections.flatMap((s) => s.tasks);
+  const matching = tasks.find((t) => t.id === "reading-189733214");
+  assert.equal(
+    matching.fields[0].question,
+    "The unit has a private outdoor space.",
+  );
+  assert.equal(
+    matching.fields[1].question,
+    "The unit is available immediately.",
+  );
+  const summary = tasks.find((t) => t.id === "reading-189732477");
+  assert.match(summary.fields[0].question, /\[19: …\]/);
+  assert.match(summary.fields[1].question, /\[20: …\]/);
+  assert.notEqual(summary.fields[0].question, summary.fields[1].question);
+  const choice = tasks.find((t) => t.id === "listening-189697549");
+  assert.equal(
+    choice.fields[0].question,
+    "Why did Judy choose to study the East End of London?",
+  );
+  const short = tasks.find((t) => t.id === "listening-189694459");
+  assert(short.fields.every((f) => f.question.includes("Pacific Clothing")));
+  assert(
+    objective.every((s) =>
+      s.tasks.every((t) => t.fields.every((f) => f.question?.length > 3)),
+    ),
+  );
+});
+
 test("task headings agree with imported question formats and passage subjects", async () => {
   for (const section of dataset.sections.filter((s) => s.id !== "speaking")) {
     for (const task of section.tasks) {

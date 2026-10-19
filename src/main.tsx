@@ -14,6 +14,7 @@ import "./style.css";
 
 type Field = {
   id: string;
+  question?: string;
   type: string;
   number: number;
   points: number;
@@ -1339,26 +1340,105 @@ function Results({
                     {result[id].score} / {result[id].total} correct
                   </span>
                 </summary>
-                {result[id].review.map((r: any) => (
-                  <div
-                    className={`review-row ${r.score === r.total ? "correct" : "incorrect"}`}
-                    key={`${r.taskId}-${r.number}`}
-                  >
-                    <span className="question-number">{r.number}</span>
-                    <div>
-                      <strong>
-                        {r.topic ? `${r.topic} · ${r.title}` : r.title}
-                      </strong>
-                      <p>Your answer: {r.answer}</p>
-                      <p className="muted">Key: {r.correct}</p>
-                    </div>
-                    <span>
-                      {r.score} / {r.total}
-                    </span>
-                  </div>
-                ))}
+                {test.sections
+                  .find((s) => s.id === id)!
+                  .tasks.map((task) => (
+                    <article className="review-task" key={task.id}>
+                      <h3>{task.topic || task.title}</h3>
+                      <p className="muted">
+                        {task.title}
+                        {task.instructions ? ` · ${task.instructions}` : ""}
+                      </p>
+                      <details className="review-context">
+                        <summary>
+                          {id === "reading"
+                            ? "View passage, questions, and choices"
+                            : "View original questions, diagram, and choices"}
+                        </summary>
+                        {task.passage && (
+                          <div
+                            className="passage"
+                            dangerouslySetInnerHTML={{ __html: task.passage }}
+                          />
+                        )}
+                        {task.audio && (
+                          <div className="review-audio">
+                            <p>Listen to this task’s recording</p>
+                            <audio controls preload="none" src={task.audio} />
+                          </div>
+                        )}
+                        <QuestionBody
+                          task={task}
+                          answers={attempt.sections[id].answers}
+                          locked={true}
+                          onAnswer={() => {}}
+                        />
+                      </details>
+                      {result[id].review
+                        .filter((r: any) => r.taskId === task.id)
+                        .map((r: any) => (
+                          <div
+                            className={`review-row ${r.score === r.total ? "correct" : "incorrect"}`}
+                            key={`${r.taskId}-${r.number}`}
+                          >
+                            <span className="question-number">{r.number}</span>
+                            <div>
+                              <strong>
+                                {task.fields.find((f) => f.number === r.number)
+                                  ?.question || task.title}
+                              </strong>
+                              {task.fields.find((f) => f.number === r.number)
+                                ?.options && (
+                                <ul className="review-options">
+                                  {task.fields
+                                    .find((f) => f.number === r.number)!
+                                    .options!.map((option, index) => (
+                                      <li key={option.value}>
+                                        {/^[A-Z]$/.test(option.value) &&
+                                        option.label !== option.value
+                                          ? `${option.value} — `
+                                          : ""}
+                                        {option.label}
+                                      </li>
+                                    ))}
+                                </ul>
+                              )}
+                              <p>Your answer: {r.answer}</p>
+                              <p className="muted">Key: {r.correct}</p>
+                            </div>
+                            <span>
+                              {r.score} / {r.total}
+                            </span>
+                          </div>
+                        ))}
+                    </article>
+                  ))}
               </details>
             ))}
+            <details className="review-section">
+              <summary>
+                Writing <span>Questions & submitted responses</span>
+              </summary>
+              {test.sections
+                .find((s) => s.id === "writing")!
+                .tasks.map((task) => (
+                  <article className="review-task" key={task.id}>
+                    <h3>
+                      {task.title} · {task.topic}
+                    </h3>
+                    <p className="muted">{task.instructions}</p>
+                    <div
+                      className="passage"
+                      dangerouslySetInnerHTML={{ __html: task.passage }}
+                    />
+                    <h4>Your submitted response</h4>
+                    <p className="submitted-text">
+                      {attempt.sections.writing.answers[task.fields[0].id] ||
+                        "No answer submitted."}
+                    </p>
+                  </article>
+                ))}
+            </details>
           </section>
           <section className="feedback-section">
             <div className="section-heading">

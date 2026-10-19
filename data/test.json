@@ -43,7 +43,8 @@
                   "value": "E",
                   "label": "the effect of the First World War"
                 }
-              ]
+              ],
+              "question": "Which TWO possible reasons for American dominance of the film industry are given in the text?"
             }
           ],
           "instructions": "",
@@ -76,7 +77,8 @@
                   "value": "C",
                   "label": "NOT GIVEN"
                 }
-              ]
+              ],
+              "question": "You are allowed to stop off at an intermediate station when making a journey using a standard season ticket."
             },
             {
               "id": "reading-189732223:1",
@@ -97,7 +99,8 @@
                   "value": "C",
                   "label": "NOT GIVEN"
                 }
-              ]
+              ],
+              "question": "When using a combined rail-and-bus season ticket, the major part of your journey must be by train."
             },
             {
               "id": "reading-189732223:2",
@@ -118,7 +121,8 @@
                   "value": "C",
                   "label": "NOT GIVEN"
                 }
-              ]
+              ],
+              "question": "It is more expensive to buy four 7-day tickets than a monthly season ticket for the same journey."
             },
             {
               "id": "reading-189732223:3",
@@ -139,7 +143,8 @@
                   "value": "C",
                   "label": "NOT GIVEN"
                 }
-              ]
+              ],
+              "question": "Annual Card season tickets entitle you to savings on other rail journeys outside of the working week."
             },
             {
               "id": "reading-189732223:4",
@@ -160,7 +165,8 @@
                   "value": "C",
                   "label": "NOT GIVEN"
                 }
-              ]
+              ],
+              "question": "Children under the age of five are charged one third of the full ticket price when accompanying you on an Annual Card journey."
             },
             {
               "id": "reading-189732223:5",
@@ -181,7 +187,8 @@
                   "value": "C",
                   "label": "NOT GIVEN"
                 }
-              ]
+              ],
+              "question": "The photo you supply at the time of application is displayed on your season ticket."
             }
           ],
           "instructions": "",
@@ -225,7 +232,8 @@
                   "value": "F",
                   "label": "F"
                 }
-              ]
+              ],
+              "question": "The unit has a private outdoor space."
             },
             {
               "id": "reading-189733214:1",
@@ -257,7 +265,8 @@
                   "value": "F",
                   "label": "F"
                 }
-              ]
+              ],
+              "question": "The unit is available immediately."
             },
             {
               "id": "reading-189733214:2",
@@ -289,7 +298,8 @@
                   "value": "F",
                   "label": "F"
                 }
-              ]
+              ],
+              "question": "There is exercise equipment on-site."
             },
             {
               "id": "reading-189733214:3",
@@ -321,7 +331,8 @@
                   "value": "F",
                   "label": "F"
                 }
-              ]
+              ],
+              "question": "The unit is a generous size."
             },
             {
               "id": "reading-189733214:4",
@@ -353,7 +364,8 @@
                   "value": "F",
                   "label": "F"
                 }
-              ]
+              ],
+              "question": "Entrance to the building is restricted."
             },
             {
               "id": "reading-189733214:5",
@@ -385,7 +397,8 @@
                   "value": "F",
                   "label": "F"
                 }
-              ]
+              ],
+              "question": "The unit is close to shopping."
             }
           ],
           "instructions": "",
@@ -417,7 +430,8 @@
                   "value": "C",
                   "label": "C"
                 }
-              ]
+              ],
+              "question": "There is evidence that metal workers were highly skilled."
             },
             {
               "id": "reading-189733329:1",
@@ -437,7 +451,8 @@
                   "value": "C",
                   "label": "C"
                 }
-              ]
+              ],
+              "question": "No investigation of certain structures has taken place."
             },
             {
               "id": "reading-189733329:2",
@@ -457,7 +472,8 @@
                   "value": "C",
                   "label": "C"
                 }
-              ]
+              ],
+              "question": "Habitation continued after the decline of the political unit."
             },
             {
               "id": "reading-189733329:3",
@@ -477,7 +493,8 @@
                   "value": "C",
                   "label": "C"
                 }
-              ]
+              ],
+              "question": "Different residential areas had different characteristics."
             }
           ],
           "instructions": "",
@@ -495,31 +512,36 @@
               "id": "reading-189732477:0",
               "type": "text",
               "number": 19,
-              "points": 1
+              "points": 1,
+              "question": "The state of Ife adjoined the [19: …] in Nigeria, and traded a variety of goods, including metals such as [20] . Floors in religious buildings were made from bits of [21] . There are many surviving examples of [22] made of brass or terracotta. The population lived on animal products, and crops such as [23] ."
             },
             {
               "id": "reading-189732477:1",
               "type": "text",
               "number": 20,
-              "points": 1
+              "points": 1,
+              "question": "The state of Ife adjoined the [19] in Nigeria, and traded a variety of goods, including metals such as [20: …] . Floors in religious buildings were made from bits of [21] . There are many surviving examples of [22] made of brass or terracotta. The population lived on animal products, and crops such as [23] ."
             },
             {
               "id": "reading-189732477:2",
               "type": "text",
               "number": 21,
-              "points": 1
+              "points": 1,
+              "question": "The state of Ife adjoined the [19] in Nigeria, and traded a variety of goods, including metals such as [20] . Floors in religious buildings were made from bits of [21: …] . There are many surviving examples of [22] made of brass or terracotta. The population lived on animal products, and crops such as [23] ."
             },
             {
               "id": "reading-189732477:3",
               "type": "text",
               "number": 22,
-              "points": 1
+              "points": 1,
+              "question": "The state of Ife adjoined the [19] in Nigeria, and traded a variety of goods, including metals such as [20] . Floors in religious buildings were made from bits of [21] . There are many surviving examples of [22: …] made of brass or terracotta. The population lived on animal products, and crops such as [23] ."
             },
             {
               "id": "reading-189732477:4",
               "type": "text",
               "number": 23,
-              "points": 1
+              "points": 1,
+              "question": "The state of Ife adjoined the [19] in Nigeria, and traded a variety of goods, including metals such as [20] . Floors in religious buildings were made from bits of [21] . There are many surviving examples of [22] made of brass or terracotta. The population lived on animal products, and crops such as [23: …] ."
             }
           ],
           "instructions": "One word only from the passage.",
@@ -537,31 +559,36 @@
               "id": "reading-189732842:0",
               "type": "text",
               "number": 24,
-              "points": 1
+              "points": 1,
+              "question": "The accident protection at City Media is [24: …] amongst similar companies."
             },
             {
               "id": "reading-189732842:1",
               "type": "text",
               "number": 25,
-              "points": 1
+              "points": 1,
+              "question": "The insurance programme excludes [25: …] employees."
             },
             {
               "id": "reading-189732842:2",
               "type": "text",
               "number": 26,
-              "points": 1
+              "points": 1,
+              "question": "An employee’s partner is not automatically [26: …] for the insurance."
             },
             {
               "id": "reading-189732842:3",
               "type": "text",
               "number": 27,
-              "points": 1
+              "points": 1,
+              "question": "The insurance coverage for part-timers is related to their usual number of [27: …] ."
             },
             {
               "id": "reading-189732842:4",
               "type": "text",
               "number": 28,
-              "points": 1
+              "points": 1,
+              "question": "Employees can send in a [28: …] for extra insurance."
             }
           ],
           "instructions": "One word only from the passage.",
@@ -579,37 +606,43 @@
               "id": "reading-205994164:0",
               "type": "text",
               "number": 29,
-              "points": 1
+              "points": 1,
+              "question": "allow minorities to gain [29: …] and show their talents"
             },
             {
               "id": "reading-205994164:1",
               "type": "text",
               "number": 30,
-              "points": 1
+              "points": 1,
+              "question": "further City Media’s aim to reflect the [30: …] of people in Canada"
             },
             {
               "id": "reading-205994164:2",
               "type": "text",
               "number": 31,
-              "points": 1
+              "points": 1,
+              "question": "An additional amount of money is given if [31: …] is required."
             },
             {
               "id": "reading-205994164:3",
               "type": "text",
               "number": 32,
-              "points": 1
+              "points": 1,
+              "question": "proof of present [32: …] in broadcasting studies"
             },
             {
               "id": "reading-205994164:4",
               "type": "text",
               "number": 33,
-              "points": 1
+              "points": 1,
+              "question": "a [33: …] issued by your school"
             },
             {
               "id": "reading-205994164:5",
               "type": "text",
               "number": 34,
-              "points": 1
+              "points": 1,
+              "question": "Interview method depends on [34: …] ."
             }
           ],
           "instructions": "One word only from the passage.",
@@ -635,7 +668,8 @@
               "id": "writing-189733708:0",
               "type": "essay",
               "number": 1,
-              "points": 1
+              "points": 1,
+              "question": "Letter to a college accommodation officer"
             }
           ],
           "instructions": "Spend about 20 minutes. Write at least 150 words.",
@@ -653,7 +687,8 @@
               "id": "writing-189733579:0",
               "type": "essay",
               "number": 2,
-              "points": 1
+              "points": 1,
+              "question": "Who should pay for care for older people?"
             }
           ],
           "instructions": "Spend about 40 minutes. Write at least 250 words.",
@@ -694,7 +729,8 @@
                   "value": "C",
                   "label": "She had read several books about it."
                 }
-              ]
+              ],
+              "question": "Why did Judy choose to study the East End of London?"
             },
             {
               "id": "listening-189697549:1",
@@ -715,7 +751,8 @@
                   "value": "C",
                   "label": "interviews"
                 }
-              ]
+              ],
+              "question": "What was Judy’s main source of materials?"
             },
             {
               "id": "listening-189697549:2",
@@ -736,7 +773,8 @@
                   "value": "C",
                   "label": "finding enough relevant sources"
                 }
-              ]
+              ],
+              "question": "What difficulty did Judy have with her dissertation?"
             }
           ],
           "instructions": "",
@@ -789,7 +827,8 @@
                   "value": "simpleChoice_IA1681748499687dfe75064-7109-4a50-90b4-5c10c0e1064c",
                   "label": "staff"
                 }
-              ]
+              ],
+              "question": "Which THREE things does the Guide to the Library have information about?"
             }
           ],
           "instructions": "",
@@ -841,7 +880,8 @@
                   "value": "H",
                   "label": "H"
                 }
-              ]
+              ],
+              "question": "Quilt Shop"
             },
             {
               "id": "listening-189695339:1",
@@ -881,7 +921,8 @@
                   "value": "H",
                   "label": "H"
                 }
-              ]
+              ],
+              "question": "Handicrafts Museum"
             },
             {
               "id": "listening-189695339:2",
@@ -921,7 +962,8 @@
                   "value": "H",
                   "label": "H"
                 }
-              ]
+              ],
+              "question": "School House"
             }
           ],
           "instructions": "",
@@ -939,43 +981,50 @@
               "id": "listening-189696078:0",
               "type": "text",
               "number": 10,
-              "points": 1
+              "points": 1,
+              "question": "[10: …] shape"
             },
             {
               "id": "listening-189696078:1",
               "type": "text",
               "number": 11,
-              "points": 1
+              "points": 1,
+              "question": "[11: …] old"
             },
             {
               "id": "listening-189696078:2",
               "type": "text",
               "number": 12,
-              "points": 1
+              "points": 1,
+              "question": "set of [12: …] chairs"
             },
             {
               "id": "listening-189696078:3",
               "type": "text",
               "number": 13,
-              "points": 1
+              "points": 1,
+              "question": "seats covered in [13: …] material"
             },
             {
               "id": "listening-189696078:4",
               "type": "text",
               "number": 14,
-              "points": 1
+              "points": 1,
+              "question": "in [14: …] condition"
             },
             {
               "id": "listening-189696078:5",
               "type": "text",
               "number": 15,
-              "points": 1
+              "points": 1,
+              "question": "length: [15: …]"
             },
             {
               "id": "listening-189696078:6",
               "type": "text",
               "number": 16,
-              "points": 1
+              "points": 1,
+              "question": "3 drawers. Top drawer has a [16: …]"
             }
           ],
           "instructions": "One word and/or a number.",
@@ -993,31 +1042,36 @@
               "id": "listening-189652254:0",
               "type": "text",
               "number": 17,
-              "points": 1
+              "points": 1,
+              "question": "Enjoyment of a [17: …]"
             },
             {
               "id": "listening-189652254:1",
               "type": "text",
               "number": 18,
-              "points": 1
+              "points": 1,
+              "question": "Positive experiences at [18: …]"
             },
             {
               "id": "listening-189652254:2",
               "type": "text",
               "number": 19,
-              "points": 1
+              "points": 1,
+              "question": "Good [19: …]"
             },
             {
               "id": "listening-189652254:3",
               "type": "text",
               "number": 20,
-              "points": 1
+              "points": 1,
+              "question": "Many [20: …] in daily life"
             },
             {
               "id": "listening-189652254:4",
               "type": "text",
               "number": 21,
-              "points": 1
+              "points": 1,
+              "question": "Good interaction with the [21: …]"
             }
           ],
           "instructions": "One word only.",
@@ -1073,7 +1127,8 @@
                   "value": "I",
                   "label": "microbes"
                 }
-              ]
+              ],
+              "question": "The rover is directed to a [22: …] which has organic material."
             },
             {
               "id": "listening-189697842:1",
@@ -1117,7 +1172,8 @@
                   "value": "I",
                   "label": "microbes"
                 }
-              ]
+              ],
+              "question": "It collects a sample from below the surface (in order to avoid the effects of [23: …] )."
             },
             {
               "id": "listening-189697842:2",
@@ -1161,7 +1217,8 @@
                   "value": "I",
                   "label": "microbes"
                 }
-              ]
+              ],
+              "question": "The sample is subjected to [24: …] ."
             },
             {
               "id": "listening-189697842:3",
@@ -1205,7 +1262,8 @@
                   "value": "I",
                   "label": "microbes"
                 }
-              ]
+              ],
+              "question": "A mass spectrometer is used to search for potential proof of life, e.g. [25: …] ."
             },
             {
               "id": "listening-189697842:4",
@@ -1249,7 +1307,8 @@
                   "value": "I",
                   "label": "microbes"
                 }
-              ]
+              ],
+              "question": "The [26: …] are compared with existing data from Earth."
             }
           ],
           "instructions": "",
@@ -1267,25 +1326,29 @@
               "id": "listening-189694885:0",
               "type": "text",
               "number": 27,
-              "points": 1
+              "points": 1,
+              "question": "Studying with the Open University demanded a great deal of [27: …] ."
             },
             {
               "id": "listening-189694885:1",
               "type": "text",
               "number": 28,
-              "points": 1
+              "points": 1,
+              "question": "Studying and working at the same time improved Rachel’s [28: …] skills."
             },
             {
               "id": "listening-189694885:2",
               "type": "text",
               "number": 29,
-              "points": 1
+              "points": 1,
+              "question": "It is helpful that the course was structured in [29: …] ."
             },
             {
               "id": "listening-189694885:3",
               "type": "text",
               "number": 30,
-              "points": 1
+              "points": 1,
+              "question": "She enjoyed meeting other students at [30: …] ."
             }
           ],
           "instructions": "No more than two words.",
@@ -1303,19 +1366,22 @@
               "id": "listening-189694459:0",
               "type": "text",
               "number": 31,
-              "points": 1
+              "points": 1,
+              "question": "List THREE types of staff that Pacific Clothing want to recruit at present. [31: …]"
             },
             {
               "id": "listening-189694459:1",
               "type": "text",
               "number": 32,
-              "points": 1
+              "points": 1,
+              "question": "List THREE types of staff that Pacific Clothing want to recruit at present. [32: …]"
             },
             {
               "id": "listening-189694459:2",
               "type": "text",
               "number": 33,
-              "points": 1
+              "points": 1,
+              "question": "List THREE types of staff that Pacific Clothing want to recruit at present. [33: …]"
             }
           ],
           "instructions": "One word only.",
